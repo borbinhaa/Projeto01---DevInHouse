@@ -1,0 +1,6 @@
+/.metadata/
+.settings/
+/bin/
+.project
+.classpath
+lombok.jar
